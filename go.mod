@@ -5,6 +5,7 @@ go 1.20
 require (
 	github.com/andybalholm/brotli v1.1.0
 	github.com/klauspost/compress v1.17.9
+	github.com/saassaassaas/tls v0.0.0-20240712051035-6d2202d2aa2e
 	github.com/valyala/bytebufferpool v1.0.0
 	github.com/valyala/tcplisten v1.0.0
 	golang.org/x/crypto v0.25.0

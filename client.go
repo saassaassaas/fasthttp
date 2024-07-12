@@ -3,7 +3,7 @@ package fasthttp
 import (
 	"bufio"
 	"bytes"
-	"crypto/tls"
+	tls "github.com/saassaassaas/tls"
 	"errors"
 	"fmt"
 	"io"
